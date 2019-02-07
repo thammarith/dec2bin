@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thammarith/dec2bin.git"
+    "url": "git+https://github.com/thammarith/paddedDec2Bin.git"
   },
   "keywords": [
     "binary",
@@ -18,7 +18,7 @@
   "author": "Thammarith Likittheerameth",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thammarith/dec2bin/issues"
+    "url": "https://github.com/thammarith/paddedDec2Bin/issues"
   },
-  "homepage": "https://github.com/thammarith/dec2bin#readme"
+  "homepage": "https://github.com/thammarith/paddedDec2Bin#readme"
 }
