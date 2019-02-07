@@ -11,10 +11,10 @@
  * // returns 0101
  * paddedDec2Bin(5, 4);
  * 
- * @param {string} decimal - The decimal value to be converted into binary.
- * @param {string} [length] - The desired length of the output string. Ignored if the output length is shorter.
+ * @param {number} decimal - The decimal value to be converted into binary.
+ * @param {number} [length] - The desired length of the output string. Ignored if the output length is shorter.
  * 
- * @returns {number} Returns the calculated binary value of the given decimal number.
+ * @returns {string} Returns the calculated binary value of the given decimal number.
  */
 function paddedDec2Bin(decimal, length) {
   return length ? decimal.toString(2).padStart(length, '0') : decimal.toString(2);
