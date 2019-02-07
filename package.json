@@ -1,6 +1,6 @@
 {
   "name": "padded-decimal-to-binary",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A light-weight, no-dependency JavaScript library for converting a decimal number into binary with optional padding zeros.",
   "main": "src/paddedDec2Bin.js",
   "scripts": {
