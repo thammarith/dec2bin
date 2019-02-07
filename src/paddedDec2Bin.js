@@ -19,3 +19,5 @@
 function paddedDec2Bin(decimal, length) {
   return length ? decimal.toString(2).padStart(length, '0') : decimal.toString(2);
 }
+
+export { paddedDec2Bin };
