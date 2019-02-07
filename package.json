@@ -1,0 +1,24 @@
+{
+  "name": "padded-decimal-to-binary",
+  "version": "1.0.0",
+  "description": "A light-weight, no-dependency JavaScript library for converting a decimal number into binary with optional padding zeros.",
+  "main": "src/paddedDec2Bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thammarith/dec2bin.git"
+  },
+  "keywords": [
+    "binary",
+    "decimal",
+    "convert"
+  ],
+  "author": "Thammarith Likittheerameth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thammarith/dec2bin/issues"
+  },
+  "homepage": "https://github.com/thammarith/dec2bin#readme"
+}
