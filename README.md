@@ -5,7 +5,7 @@ This is a light-weight, no-dependency JavaScript library for converting a decima
 ## Installation
 
 ```bash
-npm install 
+npm install padded-decimal-to-binary
 ```
 
 ## Usage
